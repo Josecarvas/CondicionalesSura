@@ -1,2 +1,7 @@
-# CondicionalesSura
-estructura de control con Python
+# José H. Cardona Vasquez
+## Sura formacion
+###### Ptyhon
+proyecto con ejemplos de condicionales en Python
+*** 
+- Condicional IF
+- Condicional ELIF
